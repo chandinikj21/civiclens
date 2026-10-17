@@ -1,1 +1,7 @@
 /archive (4).zip
+__pycache__/
+.venv/
+venv/
+*.csv
+*.joblib
+.streamlit/secrets.toml
